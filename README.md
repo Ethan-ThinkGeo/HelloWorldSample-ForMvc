@@ -1,7 +1,7 @@
 # HelloWorldSample-ForMvc
 
 ### Description
-This sample shows you how to get started building your first application with the Map Suite Mobile for Mvc 10.0.0.
+This sample shows you how to get started building your first application with the Map Suite Web for Mvc 10.0.0.
 
 ![Screenshot](https://github.com/ThinkGeo/HelloWorldSample-ForMvc/blob/master/Screenshot.png)
 
