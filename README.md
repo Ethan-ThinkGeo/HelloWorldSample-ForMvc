@@ -3,6 +3,8 @@
 ### Description
 This sample shows you how to get started building your first application with the Map Suite Web for Mvc 10.0.0.
 
+Please refer to [Wiki](http://wiki.thinkgeo.com/wiki/map_suite_desktop_for_wpf) for the details.
+
 ![Screenshot](https://github.com/ThinkGeo/HelloWorldSample-ForMvc/blob/master/Screenshot.png)
 
 ### Requirements
@@ -16,9 +18,9 @@ Working...
 
 ### Getting Help
 
-[Map Suite Mvc Wiki Resources](http://wiki.thinkgeo.com/wiki/map_suite_mvc_edition)
+[Map Suite Mvc Wiki Resources](http://wiki.thinkgeo.com/wiki/map_suite_web_for_mvc)
 
-[Map Suite Mvc Product Description](http://thinkgeo.com/map-suite-developer-gis/mvc-edition/)
+[Map Suite Mvc Product Description](https://thinkgeo.com/ui-controls#web-platforms)
 
 [ThinkGeo Community Site](http://community.thinkgeo.com/)
 
