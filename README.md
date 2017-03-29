@@ -3,7 +3,7 @@
 ### Description
 This sample shows you how to get started building your first application with the Map Suite Web for Mvc 10.0.0.
 
-Please refer to [Wiki](System.String[]) for the details.
+Please refer to [Wiki](http://wiki.thinkgeo.com/wiki/map_suite_web_for_mvc) for the details.
 
 ![Screenshot](https://github.com/ThinkGeo/HelloWorldSample-ForMvc/blob/master/Screenshot.png)
 
