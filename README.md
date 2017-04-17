@@ -1,4 +1,4 @@
-# HelloWorldSample-ForMvc
+# Hello World Sample for Mvc
 
 ### Description
 This sample shows you how to get started building your first application with the Map Suite Web for Mvc 10.0.0.
