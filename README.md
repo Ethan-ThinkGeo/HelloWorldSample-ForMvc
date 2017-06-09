@@ -14,7 +14,21 @@ This sample makes use of the following NuGet Packages
 
 ### About the Code
 
-Working...
+```csharp
+
+ @{Html.ThinkGeo().Map("Map1", 600, 500)
+                                        .MapBackground(new GeoSolidBrush(GeoColor.FromHtml("#E5E3DF")))
+                                        .CurrentExtent(-131.22, 55.05, -54.03, 16.91)
+                                        .MapUnit(GeographyUnit.DecimalDegree)
+                                        .CustomOverlays(overlays =>
+                                        {
+                                            overlays.WorldMapKitWmsWebOverlay();
+
+                                        })
+                                        .Render();
+    }
+
+```
 
 ### Getting Help
 
@@ -29,7 +43,7 @@ Working...
 ### Key APIs
 This example makes use of the following APIs:
 
-Working...
+- [ThinkGeo.MapSuite.Mvc.WorldMapKitWmsWebOverlay](http://wiki.thinkgeo.com/wiki/api/thinkgeo.mapsuite.mvc.worldmapkitwmsweboverlay)
 
 ### About Map Suite
 Map Suite is a set of powerful development components and services for the .Net Framework.
